@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "chart.js": "^4.3.0",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.5.28",
+    "piechart": "^1.0.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-router-dom": "^6.11.1",
+    "resolvers": "^1.0.0",
+    "yup": "^1.1.1"
+  }
+}
